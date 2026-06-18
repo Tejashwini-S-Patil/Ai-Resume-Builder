@@ -1,8 +1,8 @@
-{
+src{
   "name": "ai-resume-builder",
   "private": true,
   "version": "0.0.0",
-   "homepage": "https://madhumathiitagi.github.io/Ai-Resume-Builder",
+   "homepage": "https://Tejashwini-S-Patil.github.io/Ai-Resume-Builder",
   "type": "module",
   "scripts": {
   "dev": "vite",
